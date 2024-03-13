@@ -1,0 +1,30 @@
+body {
+    background-color: #346147;
+}
+.form {
+    color: black;
+    position: relative;
+    left: 35%;
+    top: 30px;
+    width: 47%;
+    background-color: #5bea97;
+    border-radius: 10px;
+    height: 650px;
+    box-shadow: inset;
+}
+.innerform {
+    position: relative;
+    left: 20%;
+    top: 20px;
+    width: 60%;
+
+}
+.button {
+    position: relative;
+    left: 25%;
+    font-size: 20px;
+    background-color: rgb(9, 120, 218);
+    border-radius: 30px;
+    color: black;
+    font-weight: bold;
+}
